@@ -18,7 +18,7 @@ Mit Unterstützung von künstlicher Intelligenz, wissenschaftlichen Erkenntnisse
 
 | Projekt | Worum es geht | |
 | --- | --- | --- |
-| **[0 to Hero](https://github.com/r-winter-mute-dev/zerotohero)** | Kostenloser, interaktiver Elektronikkurs für alle, die bei null anfangen. Kleine Schritte, Spickzettel, wenig Ablenkung. Erste Kampagne: eine smarte Türklingel. | [Zum Kurs](https://r-winter-mute-dev.github.io/zerotohero/) |
+| **[0 to Hero](https://github.com/r-winter-mute-dev/ZEROTOHERO)** | Kostenloser, interaktiver Elektronikkurs für alle, die bei null anfangen. Kleine Schritte, Spickzettel, wenig Ablenkung. Erste Kampagne: eine smarte Türklingel. | [Zum Kurs](https://r-winter-mute-dev.github.io/zerotohero/) |
 | **[ANXIETY.OS](https://github.com/r-winter-mute-dev/ANXIETY.OS)** | Kostenlose Akuthilfe im Browser bei starker Angst, auf Grundlage der kognitiven Verhaltenstherapie. Ein Schritt pro Bildschirm, alles per Antippen, offline nutzbar, nichts wird gespeichert. Entwurf, noch nicht fachlich geprüft. | [Zur App](https://r-winter-mute-dev.github.io/ANXIETY.OS/) |
 
 ## Meine Motivation
