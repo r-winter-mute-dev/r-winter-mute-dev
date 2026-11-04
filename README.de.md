@@ -67,3 +67,7 @@ Wenn dadurch auch nur ein Mensch früher die Informationen, Unterstützung oder 
 <p align="center">
   <sub>Gewidmet meinen Helden <a href="https://www.wauland.de/">Wau Holland</a> und dem <a href="https://www.ccc.de/">Chaos Computer Club</a>,<br>die einen großartigen Job machen und gemacht haben.</sub>
 </p>
+
+<p align="center">
+  <sub><em>„Öffentliche Daten nützen, private Daten schützen.“</em> – Wau Holland</sub>
+</p>

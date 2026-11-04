@@ -67,3 +67,7 @@ If even one person finds the information, support or understanding they have bee
 <p align="center">
   <sub>Dedicated to my heroes <a href="https://www.wauland.de/">Wau Holland</a> and the <a href="https://www.ccc.de/">Chaos Computer Club</a>,<br>who do and have done a great job.</sub>
 </p>
+
+<p align="center">
+  <sub><em>„Öffentliche Daten nützen, private Daten schützen.“</em><br>(“Make use of public data, protect private data.”) – Wau Holland</sub>
+</p>
