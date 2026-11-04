@@ -63,3 +63,7 @@ Wenn dadurch auch nur ein Mensch früher die Informationen, Unterstützung oder 
 <p align="center">
   <em>Aus persönlichen Erfahrungen entstanden. Mit Wissenschaft und Technologie weiterentwickelt. Für alle zugänglich gemacht.</em>
 </p>
+
+<p align="center">
+  <sub>Gewidmet meinen Helden <a href="https://www.wauland.de/">Wau Holland</a> und dem <a href="https://www.ccc.de/">Chaos Computer Club</a>,<br>die einen großartigen Job machen und gemacht haben.</sub>
+</p>

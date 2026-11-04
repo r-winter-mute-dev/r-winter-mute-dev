@@ -63,3 +63,7 @@ If even one person finds the information, support or understanding they have bee
 <p align="center">
   <em>Born from personal experience. Developed further with science and technology. Made accessible to everyone.</em>
 </p>
+
+<p align="center">
+  <sub>Dedicated to my heroes <a href="https://www.wauland.de/">Wau Holland</a> and the <a href="https://www.ccc.de/">Chaos Computer Club</a>,<br>who do and have done a great job.</sub>
+</p>
