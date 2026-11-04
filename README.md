@@ -1,63 +1,65 @@
 <p align="center">
-  <img src="banner.svg" alt="r-winter-mute – Wissen sollte jedem zugänglich sein. Unabhängig davon, wie wir denken, lernen oder die Welt wahrnehmen." width="100%">
+  <img src="banner-en.svg" alt="r-winter-mute – Knowledge should be accessible to everyone. No matter how we think, learn or perceive the world." width="100%">
 </p>
 
-## Über mich
+<p align="center">
+  <strong>English</strong> · <a href="README.de.md">Deutsch</a>
+</p>
 
-Hinter **r-winter-mute** steht eine einzelne Person, die sich aus persönlichen Erfahrungen heraus der Entwicklung barrierearmer Lern- und Selbsthilfeplattformen widmet.
+## About me
 
-Als selbst neurodivergenter Mensch kenne ich die Herausforderungen, die ein Leben außerhalb der gesellschaftlich häufig vorausgesetzten Normen mit sich bringen kann. Die Schwierigkeiten, passende Informationen zu finden, verstanden zu werden, geeignete Lernmethoden zu entdecken und Zugang zu hilfreicher Unterstützung zu erhalten, sind nicht nur theoretische Themen, sondern Teil meines eigenen Lebensweges.
+As a neurodivergent person myself, I know the challenges that can come with living outside the norms society so often takes for granted. Finding the right information, being understood, discovering learning methods that actually work and getting access to helpful support are not just theoretical topics to me. They are part of my own path through life.
 
-Aus genau diesen Erfahrungen ist die Motivation entstanden, etwas zu schaffen, das ich mir selbst an vielen Stellen gewünscht hätte.
+These experiences are exactly what motivated me to build something I would have wished for myself in many places.
 
-Mit Unterstützung von künstlicher Intelligenz, wissenschaftlichen Erkenntnissen und frei zugänglichem Wissen entwickle ich digitale Plattformen und Werkzeuge, die Menschen dabei helfen sollen, sich selbst besser zu verstehen, Wissen zu erwerben und ihren eigenen Weg zu finden.
+With the help of artificial intelligence, scientific findings and freely available knowledge, I develop digital platforms and tools that are meant to help people understand themselves better, acquire knowledge and find their own way.
 
-## Projekte
+## Projects
 
-| Projekt | Worum es geht | |
+| Project | What it is about | |
 | --- | --- | --- |
-| **[0 to Hero](https://github.com/r-winter-mute-dev/zerotohero)** | Kostenloser, interaktiver Elektronikkurs für alle, die bei null anfangen. Kleine Schritte, Spickzettel, wenig Ablenkung. Erste Kampagne: eine smarte Türklingel. | [Zum Kurs](https://r-winter-mute-dev.github.io/zerotohero/) |
+| **[0 to Hero](https://github.com/r-winter-mute-dev/zerotohero)** | A free, interactive electronics course for complete beginners. Small steps, cheat sheets, few distractions. First campaign: a smart doorbell. Currently in German. | [Open the course](https://r-winter-mute-dev.github.io/zerotohero/) |
 
-## Meine Motivation
+## My motivation
 
-Ich bin überzeugt davon, dass niemand aufgrund seiner neurologischen Voraussetzungen, seiner Lebensumstände oder seiner finanziellen Möglichkeiten schlechtere Chancen auf Wissen, Bildung und persönliche Entwicklung haben sollte.
+I am convinced that nobody should have worse chances at knowledge, education and personal growth because of their neurological makeup, their life circumstances or their financial means.
 
-> Nicht jeder Mensch lernt gleich.<br>
-> Nicht jeder Mensch verarbeitet Informationen gleich.<br>
-> Und nicht jeder Mensch benötigt dieselbe Art von Unterstützung.
+> Not everyone learns the same way.<br>
+> Not everyone processes information the same way.<br>
+> And not everyone needs the same kind of support.
 
-Genau das sollte kein Hindernis sein, sondern bei der Entwicklung von Lern- und Wissensangeboten berücksichtigt werden.
+This should not be an obstacle. It should be taken into account whenever learning and knowledge resources are designed.
 
-## Was ich erreichen möchte
+## What I want to achieve
 
-- Wissenschaftlich fundiertes Wissen **verständlich und zugänglich** machen.
-- Lernumgebungen schaffen, die **unterschiedliche kognitive Bedürfnisse** berücksichtigen.
-- **KI sinnvoll einsetzen**, um individuelles und selbstbestimmtes Lernen zu ermöglichen.
-- Selbsthilfeangebote entwickeln, die auf **nachvollziehbaren Erkenntnissen** statt auf unbelegten Versprechen beruhen.
-- Menschen dabei unterstützen, **sich selbst und ihre individuellen Bedürfnisse** besser zu verstehen.
-- Zugang zu Wissen **unabhängig von Herkunft, finanziellen Möglichkeiten oder neurologischen Voraussetzungen** ermöglichen.
+- Make scientifically grounded knowledge **understandable and accessible**.
+- Create learning environments that take **different cognitive needs** into account.
+- **Use AI meaningfully** to enable individual, self-directed learning.
+- Develop self-help resources based on **traceable evidence** instead of unproven promises.
+- Help people better understand **themselves and their individual needs**.
+- Make knowledge accessible **regardless of background, financial means or neurological makeup**.
 
-## Grundgedanken
+## Core principles
 
 | | |
 | --- | --- |
-| **Wissen statt Vorurteile** | Informationen sollten auf wissenschaftlichen Erkenntnissen beruhen und verständlich vermittelt werden. |
-| **Verständnis statt Anpassungsdruck** | Menschen sollten nicht erst lernen müssen, ihre individuellen Bedürfnisse zu verstecken, um Zugang zu Bildung zu erhalten. |
-| **Technologie als Werkzeug** | KI soll Menschen unterstützen, nicht ihre Selbstständigkeit oder Entscheidungsfreiheit ersetzen. |
-| **Erfahrungen als Antrieb** | Die eigene Lebensgeschichte ist der Ausgangspunkt dieser Projekte. Sie ist jedoch nicht der Maßstab für die Erfahrungen anderer. |
+| **Knowledge instead of prejudice** | Information should be based on scientific evidence and explained in a way people can understand. |
+| **Understanding instead of pressure to conform** | People should not have to learn to hide their individual needs before they get access to education. |
+| **Technology as a tool** | AI should support people, not replace their independence or their freedom to decide. |
+| **Experience as a driving force** | My own life story is the starting point of these projects. It is not, however, the measure for anyone else's experience. |
 
-## Meine Vision
+## My vision
 
-Ich erwarte nicht, die Welt allein verändern zu können.
+I don't expect to change the world on my own.
 
-Aber ich kann versuchen, Werkzeuge zu entwickeln, die jemand anderem den Weg erleichtern, den ich selbst teilweise nur unter großen Schwierigkeiten gefunden habe.
+But I can try to build tools that make the path easier for someone else, a path I sometimes only found with great difficulty myself.
 
-Wenn dadurch auch nur ein Mensch früher die Informationen, Unterstützung oder das Verständnis findet, das ihm bisher gefehlt hat, hat diese Arbeit bereits einen Sinn.
+If even one person finds the information, support or understanding they have been missing a little sooner because of this, then this work has already been worthwhile.
 
-**Denn Wissen sollte kein Privileg sein.**
+**Because knowledge should not be a privilege.**
 
 ---
 
 <p align="center">
-  <em>Aus persönlichen Erfahrungen entstanden. Mit Wissenschaft und Technologie weiterentwickelt. Für alle zugänglich gemacht.</em>
+  <em>Born from personal experience. Developed further with science and technology. Made accessible to everyone.</em>
 </p>
