@@ -20,7 +20,7 @@ Mit Unterstützung von künstlicher Intelligenz, wissenschaftlichen Erkenntnisse
 | --- | --- | --- |
 | **[0 to Hero](https://github.com/r-winter-mute-dev/ZEROTOHERO)** | Kostenloser, interaktiver Elektronikkurs für alle, die bei null anfangen. Kleine Schritte, Spickzettel, wenig Ablenkung. Erste Kampagne: eine smarte Türklingel. | [Zum Kurs](https://r-winter-mute-dev.github.io/zerotohero/) |
 | **[ANXIETY.OS](https://github.com/r-winter-mute-dev/ANXIETY.OS)** | Kostenlose Akuthilfe im Browser bei starker Angst, auf Grundlage der kognitiven Verhaltenstherapie. Ein Schritt pro Bildschirm, alles per Antippen, offline nutzbar, nichts wird gespeichert. Entwurf, noch nicht fachlich geprüft. | [Zur App](https://r-winter-mute-dev.github.io/ANXIETY.OS/) |
-| **[RE:Chat](https://github.com/r-winter-mute-dev/re-chat)** | OSINT- und Forensik-Werkzeug für WhatsApp-Exporte. Stellt den Verlauf wieder her, berechnet Prüfsummen, findet Indikatoren und Unstimmigkeiten und erstellt einen druckbaren Bericht. Läuft komplett lokal im Browser, nichts wird hochgeladen. | [Zum Werkzeug](https://r-winter-mute-dev.github.io/re-chat/) |
+| **[RE:Chat](https://github.com/r-winter-mute-dev/RE-Chat)** | OSINT- und Forensik-Werkzeug für WhatsApp-Exporte. Stellt den Verlauf wieder her, berechnet Prüfsummen, findet Indikatoren und Unstimmigkeiten und erstellt einen druckbaren Bericht. Läuft komplett lokal im Browser, nichts wird hochgeladen. | [Zum Werkzeug](https://r-winter-mute-dev.github.io/RE-Chat/) |
 
 ## Meine Motivation
 

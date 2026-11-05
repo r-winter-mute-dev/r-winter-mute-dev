@@ -20,7 +20,7 @@ With the help of artificial intelligence, scientific findings and freely availab
 | --- | --- | --- |
 | **[0 to Hero](https://github.com/r-winter-mute-dev/ZEROTOHERO)** | A free, interactive electronics course for complete beginners. Small steps, cheat sheets, few distractions. First campaign: a smart doorbell. Currently in German. | [Open the course](https://r-winter-mute-dev.github.io/zerotohero/) |
 | **[ANXIETY.OS](https://github.com/r-winter-mute-dev/ANXIETY.OS)** | Free in-browser support for moments of acute anxiety, based on cognitive behavioural therapy. One step per screen, everything by tapping, works offline, nothing is stored. Draft, not yet reviewed by professionals. Currently in German. | [Open the app](https://r-winter-mute-dev.github.io/ANXIETY.OS/) |
-| **[RE:Chat](https://github.com/r-winter-mute-dev/re-chat)** | OSINT and digital forensics tool for WhatsApp exports. Restores the conversation, computes checksums, finds indicators and inconsistencies and produces a printable report. Runs entirely in the browser, nothing is uploaded. Currently in German. | [Open the tool](https://r-winter-mute-dev.github.io/re-chat/) |
+| **[RE:Chat](https://github.com/r-winter-mute-dev/RE-Chat)** | OSINT and digital forensics tool for WhatsApp exports. Restores the conversation, computes checksums, finds indicators and inconsistencies and produces a printable report. Runs entirely in the browser, nothing is uploaded. Currently in German. | [Open the tool](https://r-winter-mute-dev.github.io/RE-Chat/) |
 
 ## My motivation
 
