@@ -19,6 +19,7 @@ Mit Unterstützung von künstlicher Intelligenz, wissenschaftlichen Erkenntnisse
 | Projekt | Worum es geht | |
 | --- | --- | --- |
 | **[0 to Hero](https://github.com/r-winter-mute-dev/ZEROTOHERO)** | Kostenloser, interaktiver Elektronikkurs für alle, die bei null anfangen. Kleine Schritte, Spickzettel, wenig Ablenkung. Erste Kampagne: eine smarte Türklingel. | [Zum Kurs](https://r-winter-mute-dev.github.io/zerotohero/) |
+| **[Linux to Hero](https://github.com/r-winter-mute-dev/ZEROTOHERO-LINUX)** | Kostenloser Kurs zu den Linux-Zertifikaten LPIC-1, LPIC-2 und LPIC-3 Security. Simuliertes Terminal im Browser, Aufgaben auf der eigenen VM, Bosskämpfe, Probeprüfungen und Wiederholung in wachsenden Abständen. LPIC-1 komplett, LPIC-2 im Aufbau. | [Zum Kurs](https://r-winter-mute-dev.github.io/ZEROTOHERO-LINUX/) |
 | **[ANXIETY.OS](https://github.com/r-winter-mute-dev/ANXIETY.OS)** | Kostenlose Akuthilfe im Browser bei starker Angst, auf Grundlage der kognitiven Verhaltenstherapie. Ein Schritt pro Bildschirm, alles per Antippen, offline nutzbar, nichts wird gespeichert. Entwurf, noch nicht fachlich geprüft. | [Zur App](https://r-winter-mute-dev.github.io/ANXIETY.OS/) |
 | **[RE:Chat](https://github.com/r-winter-mute-dev/RE-Chat)** | OSINT- und Forensik-Werkzeug für WhatsApp-Exporte. Stellt den Verlauf wieder her, berechnet Prüfsummen, findet Indikatoren und Unstimmigkeiten und erstellt einen druckbaren Bericht. Läuft komplett lokal im Browser, nichts wird hochgeladen. | [Zum Werkzeug](https://r-winter-mute-dev.github.io/RE-Chat/) |
 
